@@ -6,5 +6,5 @@ Sample Restaurant Management Using following configuration
   4. Hibernate 4.3.5.Final
   5. Mysql 5.5.53
   
-  ## I also included jar.
+  ## It also contains jar.
 
